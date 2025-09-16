@@ -32,7 +32,6 @@ import jakarta.persistence.criteria.Root;
 import tech.ailef.snapadmin.external.dbmapping.fields.DbField;
 import tech.ailef.snapadmin.external.dbmapping.fields.StringFieldType;
 import tech.ailef.snapadmin.external.dbmapping.fields.TextFieldType;
-import tech.ailef.snapadmin.external.dbmapping.fields.UUIDFieldType;
 import tech.ailef.snapadmin.external.dto.CompareOperator;
 import tech.ailef.snapadmin.external.dto.QueryFilter;
 import tech.ailef.snapadmin.external.exceptions.SnapAdminException;
